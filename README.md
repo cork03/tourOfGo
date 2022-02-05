@@ -1,2 +1,2 @@
 # tourOfGo
-tourOfGO
+tourOfGOのリポジトリ
